@@ -20,7 +20,7 @@ This Go program generates a random password based on user preferences, allowing 
 2. Run the program:
 
     bash
-    go run main.go
+    go run passwdgen.go
     
 
 3. Follow the prompts to input the desired password length and specify whether to include special characters.
